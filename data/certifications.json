@@ -1,0 +1,23 @@
+[
+	{
+		"name":"Dicoding",
+		"description": "Programming Basic",
+		"badge":"https://i.ibb.co/K081CLk/7e4f7a54-7adc-46aa-a805-b4a7c9b307f2.png",
+		"proof":"https://www.dicoding.com/certificates/2VX3NNKM3XYQ"
+
+	},
+	{
+		"name":"SAP01",
+		"description": "Fundamental",
+		"badge":"https://i.ibb.co/GHJw71P/500e1e82-7d64-45c8-954e-cf6f14922535.png",
+		"proof":"https://drive.google.com/file/d/1-EBPZNK0es_KeBV0QUatryBl3QqMM4y5/view"
+
+	},
+	{
+		"name":"SCM500",
+		"description": "SAP Procurement",
+		"badge":"https://i.ibb.co/sgJVLZs/f9c60988-9d64-4ab0-bd96-bfd480a2b760.png",
+		"proof":"https://drive.google.com/file/d/1dLlZWr1eNVQ87BgPCVmwI8rYpzMOzi9z/view"
+		
+	}
+]
