@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WhatsApp API on My New Hugo Site</title>
+    <link>http://example.org/tags/whatsapp-api/</link>
+    <description>Recent content in WhatsApp API on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Mon, 11 Oct 2021 12:41:05 -0500</lastBuildDate><atom:link href="http://example.org/tags/whatsapp-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Procurement Web Application</title>
+      <link>http://example.org/projects/creations/procurement/</link>
+      <pubDate>Mon, 11 Oct 2021 12:41:05 -0500</pubDate>
+      
+      <guid>http://example.org/projects/creations/procurement/</guid>
+      <description>Procurement Web Application &amp;ldquo;&amp;hellip;adalah aplikasi pengajuan anggaran dan barang di perusahaan PT.Wahana Baru Bakti.&amp;rdquo; Dimana aplikasi tersebut sudah cukup powerful karena dilengkapi dengan fitur notifikasi whatsapp setiap ada pengajuan dan saat apporval.</description>
+    </item>
+    
+  </channel>
+</rss>
