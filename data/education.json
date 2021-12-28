@@ -1,15 +1,9 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
+        "school":"[Mikroskil University](https://www.mikroskil.ac.id/)",
+        "degree":"Sarjana Komputer/S.Kom",
+        "major":"Information Systems - E-Business",
+        "notes":"Lab Assistant",
         "range":"2006 - 2008"
-    },
-    {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
     }
 ]
