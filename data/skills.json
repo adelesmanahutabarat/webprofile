@@ -1,10 +1,10 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "Java","Python","git","php","jquery","javascript",".Net"]
   },
   {
       "grouping":"Platform Development & Administration",
@@ -16,7 +16,8 @@
         {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Oracle","icon":"database"},
         "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"Apache Spark"},
+        {"name":"MySql"}
       ]
   },
   {
